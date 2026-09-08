@@ -1,5 +1,5 @@
 // Настройка пинов Raspberry Pi Pico
-const int RED_PIN = 12;    // Красный к GP12
+const int RED_PIN = 15;    // Красный к GP12
 const int GREEN_PIN = 11;  // Зеленый к GP11
 const int BLUE_PIN = 13;   // Синий к GP13
 
